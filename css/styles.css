@@ -1,0 +1,8 @@
+
+.table th, tr {
+    border: 1px solid black;
+}
+.frame {
+    border: solid 1px black;
+    width: 150px;
+}
